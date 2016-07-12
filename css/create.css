@@ -1,0 +1,1997 @@
+/*---------css start for login page-------*/
+
+.centercol .leftcol-login {
+	width:553px;
+	float:left;
+	border:1px solid #950029;
+	border-top:none;
+	padding-left:12px;
+	margin-left:199px;
+}
+
+.centercol .rightcol-login {
+	width:400px;
+	padding:0px 0 0px 0;
+	float:right;
+}
+
+
+.centercol .leftcol-login  .textheading1
+{
+width:20%;
+float:left;
+font-weight:bold;
+padding:2px 0 0 20px;
+text-align:left;
+}
+
+.centercol .leftcol-login  .formfield1
+{
+width:65%;
+float:left;
+padding:0px 0 0 2%;
+clear:right;
+}
+
+.centercol .leftcol-login  .forgotpassword
+{
+width:62%;
+float:left;
+text-align:right;
+padding:0px 0 0 2%;
+clear:right;
+}
+
+
+.centercol .leftcol-login .formfield2
+{
+width:70%;
+float:left;
+padding:3px 0 0 2%;
+clear:right;
+}
+
+.centercol .leftcol-login .box {
+	width:540px;
+}
+
+.centercol .leftcol-login .box .boxtop {
+	background:url(/images/loginbox-topimg.gif) left top no-repeat;
+	height:17px;
+}
+
+.centercol .leftcol-login .box .boxbg
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+height:auto;
+overflow:auto
+}
+
+
+.centercol .leftcol-login .box .boxbg .textheading
+{
+width:31%;
+float:left;
+text-align:right;
+font-weight:bold;
+font-size:19px;
+height:37px;
+}
+
+.centercol .leftcol-login .box .boxbg .formfield
+{
+width:64%;
+float:right;
+padding:6px 0 0 2%;
+height:31px;
+}
+
+.centercol .leftcol-login .box .boxbottom{
+	background: white url(/images/loginbox-bottomimg.gif) left top no-repeat;
+	height:9px;
+}
+
+
+/*---------css End for login page-------*/
+
+/*---------css start for left col of create mip-------*/
+.centercol .leftcol1 {
+	width:749px;
+	float:left;
+	margin-right:19px;
+}
+
+.centercol .leftcol1 .welcome1 {
+	width:749px;
+	padding:0px 0 0 0;
+	float:left;
+}
+
+.centercol .leftcol1  .topheading {
+	width:730px;
+	padding:7px 0 0 19px;
+	height:40px;
+	background:url(/images/welcome-headingbg1.gif) left top no-repeat;
+	color:#FFFFFF;
+	font-size:20px;
+	line-height:27px;
+	font-weight:bold;
+}
+
+.blue{
+	color: blue;
+}
+
+.black{
+	color: #000000;
+	font-size: 12px;
+}
+
+
+.centercol .leftcol1 .welcome1 .welcomeheading {
+	width:730px;
+	padding:7px 0 0 19px;
+	height:40px;
+	background:url(/images/welcome-headingbg1.gif) left top no-repeat;
+	color:white;
+	font-size:20px;
+	line-height:27px;
+	font-weight:bold;
+}
+
+
+.centercol .leftcol1 .box, .new_box{
+	width:749px;
+}
+
+.centercol .leftcol1 .box .boxtop, .new_box .boxtop{
+	background:url(/images/box-topimg.gif) left top no-repeat;
+	height:17px;
+}
+
+.centercol .leftcol1 .box .boxbg
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding-top:25px;
+height:219px;
+overflow:auto
+}
+
+.centercol .leftcol1 .box .boxtutorial
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding-left:10px;
+height:241px;
+overflow:auto
+}
+
+
+.centercol .leftcol1 .box .boxbg .textheading
+{
+width:43%;
+float:left;
+text-align:right;
+font-weight:bold;
+font-size:14px;
+height:37px;
+}
+
+.centercol .leftcol1 .box .boxbg .formfield
+{
+width:52%;
+float:right;
+padding:6px 0 0 1%;
+height:31px;
+}
+
+.centercol .leftcol1 .box .boxbg .textheading1
+{
+width:43%;
+float:left;
+text-align:right;
+font-weight:bold;
+font-size:12px;
+padding:2px 0 0 0;
+}
+
+.centercol .leftcol1 .box .boxbg .formfield1
+{
+width:52%;
+float:right;
+padding:0px 0 0 1%;
+}
+
+.centercol .leftcol1 .box .boxbg .button
+{
+width:25%;
+float:right;
+padding:0px 2px 0 0;
+background-color:white;
+}
+.centercol .leftcol1 .box .boxbottom, .new_box .boxbottom{
+	background: white url(/images/box-bottomimg.gif) left top no-repeat;
+	height:9px;
+background: white url(/images/box-bottomimg.gif) left top no-repeat;
+height:9px;
+}
+
+/*---------css End for left col of create mip-------*/
+
+/*---------css start for see how-------*/
+
+.centercol .leftcol1 .box .seehow
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding-left:10px;
+padding-right:5px;
+}
+
+.centercol .leftcol1 .box .seehow ul
+{
+list-style-type:none;
+margin:0px;
+padding:0px;
+}
+
+.centercol .leftcol1 .box .seehow ul li
+{
+background:url(/images/list_green_arrow.gif) left 3px no-repeat;
+margin:0px 5px 0px 0px;
+padding:0px 5px 8px 12px;
+
+}
+
+/*---------css End for see how-------*/
+
+/*--------- css start for left col of create mip video section -------*/
+
+.centercol .leftcol1 .videobox
+{
+width:749px;
+}
+
+.centercol .leftcol1 .videobox .videoboxtop
+{
+background:url(/images/videobox-top.gif) left top no-repeat;
+height:28px;
+padding:7px 0 0 19px;
+}
+
+.centercol .leftcol1 .videobox .videoboxbg
+{
+background: #e7e6e6 url(/images/videoboxbg.gif) left top repeat-x;
+padding:4px 0 5px 4px;
+height:120px;
+
+}
+
+.centercol .leftcol1 .videobox .videoboxbg .frame
+{
+width:83%;
+float:left;
+}
+
+.centercol .leftcol1 .videobox .videoboxbg .frame ul
+{
+margin:0px;
+padding:0px;
+float:left;
+}
+
+.centercol .leftcol1 .videobox .videoboxbg .frame ul li
+{
+list-style-type:none;
+margin-right:9px;
+font-weight:bold;
+float:left;
+width:89px;
+text-align:center;
+}
+
+.centercol .leftcol1 .videobox .videoboxbg .previewbutton
+{
+width:14%;
+float:right;
+padding:25px 0 0 0 ;
+}
+
+.centercol .leftcol1 .videobox .videoboxbottom
+{
+background: white url(/images/videobox-bottom.gif) left top no-repeat;
+height:11px;
+}
+
+
+/*---------css start for left col of create mip video section-------*/
+
+/*---------css start for right col of create mip-------*/
+
+.centercol .rightcol1 {
+	width:216px;
+	padding:0px 0 20px 0;
+	float:right;
+}
+
+.centercol .rightcol1 .phone {
+background:url(/images/mobile1.jpg) 14px top no-repeat;
+width:202px;
+height:311px;
+}
+
+.phone2 {
+background:url(/themes/shapestuff/images/mobile1.jpg) 0px 0px no-repeat;
+width:190px;
+height:325px;
+}
+
+.centercol .rightcol1 .box
+{
+width:215px;
+}
+
+.centercol .rightcol1 .box .boxtop
+{
+background:url(/images/rightbox-topimg.gif) left top no-repeat;
+height:17px;
+}
+
+.centercol .rightcol1 .box .boxbg{
+	background: #ffffff url(/images/rightboxbg.gif) left top repeat-x;
+	border-left:1px solid #e7e7e7;
+	border-right:2px solid #b7b7b7;
+}
+.centercol .rightcol1 .box .boxbg .textheading1
+{
+padding:0px 5% 0 6%;
+}
+
+.centercol .rightcol1 .box .boxbottom
+{
+background: white url(/images/rightbox-bottomimg.gif) left top no-repeat;
+height:9px;
+}
+
+.centercol .rightcol1 .box1 .boxtop
+{
+background:url(/images/rightbox-topimg1.gif) left top no-repeat;
+height:14px;
+}
+
+.centercol .rightcol1 .box1 .boxbg{
+	background: #ffffff url(/images/rightboxbg.gif) left top repeat-x;
+	border-left:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+}
+.centercol .rightcol1 .box1 .boxbg .textheading1
+{
+padding:0px 5% 0 6%;
+}
+
+.centercol .rightcol1 .box1 .boxbottom
+{
+background: white url(/images/rightbox-bottomimg1.gif) left top no-repeat;
+height:9px;
+}
+
+
+/*---------css End for right col of create mip -------*/
+
+
+/*---------css start for browse video -------*/
+
+.centercol .leftcol1 .browsevideo
+{
+width:748px;
+}
+
+.centercol .leftcol1 .browsevideo .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.centercol .leftcol1 .browsevideo .boxbg
+{
+background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:10px 0px 0px 22px;
+height:286px;
+overflow:auto;
+}
+
+.centercol .leftcol1 .browsevideo .boxbg .row1
+{
+width:705px;
+padding:4px 0 0px 0px;
+}
+
+.centercol .leftcol1 .browsevideo .boxbg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .browsevideo .boxbg .row1 .col1 .img 
+{
+background: url(/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #999999;
+font-weight:bold;
+font-size:10px;
+}
+.centercol .leftcol1 .browsevideo .boxbg .row1 .col_border
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+.centercol .leftcol1 .browsevideo .boxbg .row1 .col1 .img .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+}
+.browsevideo .boxbg .row1 .col_border .img 
+{
+background: url(/themes/shapestuff/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #E6FF5A;
+font-weight:bold;
+font-size:10px;
+}
+
+
+
+.browsevideo .boxbg .row1 .col_border .img .add 
+{
+background:url(/themes/shapestuff/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+}
+
+.centercol .leftcol1 .browsevideo .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+
+/*---------css End for browse video -------*/
+
+
+
+/*---------css start for browse audio -------*/
+
+.centercol .leftcol1 .browseaudio
+{
+width:748px;
+}
+
+.centercol .leftcol1 .browseaudio .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.centercol .leftcol1 .browseaudio .boxbg
+{
+	background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:0px 0px 0px 24px;
+height:217px;
+overflow:auto
+}
+
+.centercol .leftcol1 .browseaudio .boxbg .row1
+{
+width:705px;
+padding:12px 0 5px 0px;
+}
+
+.centercol .leftcol1 .browseaudio .boxbg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .browseaudio .boxbg .row1 .col1 .img 
+{
+background: url(/images/audio-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #e7e7e7;
+font-weight:bold;
+font-size:10px;
+}
+
+.centercol .leftcol1 .browseaudio .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+.browseaudio .boxbg .row1 .col1 .play
+{
+/*background: url(/images/video-image.jpg) left top no-repeat;*/ /* Commented by AMIT*/
+width:110px;
+color:white;
+padding:20px 0px 16px 0px;
+height:37px;
+border:2px solid #999999;
+}
+
+
+.centercol .leftcol1 .browseaudio .boxbg .row1 .col1 .play .add 
+{
+background:url(/images/audio-bg.png) left top no-repeat;
+height:18px;	
+width:110px;
+margin-top:13px;
+}
+
+
+.browseaudio .boxbg .row1 .col1 .play .add  .floatrightbg {
+	float:right;
+	background-color:#000000;
+	padding:0px 2px;
+}
+
+
+/*---------css start for browse audio -------*/
+
+/*---------css start for browse image -------*/
+
+.centercol .leftcol1 .browseimage
+{
+width:748px;
+}
+
+.centercol .leftcol1 .browseimage .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.centercol .leftcol1 .browseimage .boxbg
+{
+background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:20px 0px 0px 24px;
+height:219px;
+overflow:auto
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1
+{
+width:705px;
+padding:20px 0 5px 0px;
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1 .col1 .img 
+{
+background: url(/images/image.jpg) left top no-repeat;
+width:74px;
+color:white;
+padding:52px 0px 0px 0px;
+border:2px solid #999999;
+font-weight:bold;
+font-size:10px;
+height:18px;
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1 .col1 .img .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:74px;
+}
+
+.centercol .leftcol1 .browseimage .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+
+/*---------css End for browse image -------*/
+
+
+/*---------css start for add text -------*/
+.centercol .leftcol1 .box .addtextbg
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:15px 0px 0px 16px;
+height:280px;
+overflow:auto
+}
+
+
+/*---------css End for add text -------*/
+
+
+/*---------css start for  latest mip bg -------*/
+
+.centercol .leftcol1 .box .latestmip-bg
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:0px 10px 0px 23px;
+}
+
+.centercol .leftcol1 .box .latestmip-bg .row1
+{
+width:705px;
+padding:8px 0 8px 0px;
+font-size:11px;
+}
+
+.centercol .leftcol1 .box .latestmip-bg .row1 .col1
+{
+width:115px;
+margin-right:140px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .box .latestmip-bg .row1 .collast
+{
+width:115px;
+margin-right:px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .box .latestmip-bg .row1  .img
+{
+background:url(/images/mip-mobile.png) left top no-repeat;
+height:135px;
+padding:30px 18px 0px 18px;  /* Edited By Rohit padding:30px 0px 0px 18px; */
+}
+
+.centercol .leftcol1 .box .latestmip-bg .row1  .txt
+{
+padding:0px 0px 0px 3px;
+}
+
+/*---------css End for left col of latest mip bg -------*/
+
+
+/*---------css start for  Messages from Coach -------*/
+
+.centercol .leftcol1 .box .coachmessage
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:5px 10px 0px 23px;
+}
+
+.centercol .leftcol1 .box .coachmessage .leftcol
+{
+width:50%;
+padding:20px 0 8px 0px;
+float:left;
+height:110px;
+overflow:auto;
+}
+
+.centercol .leftcol1 .box .coachmessage .leftcol .coachimage
+{
+width:16%;
+float:left;
+height:50px;
+padding:0px 0px 0px 0px;
+}
+
+.centercol .leftcol1 .box .coachmessage .leftcol .content
+{
+width:79%;
+float:left;
+clear:right;
+padding:5px 0px 0px 0px;
+}
+
+
+
+.centercol .leftcol1 .box .coachmessage .rightcol
+{
+width:47%;
+padding:0px 0 8px 0px;
+float:right;
+}
+
+.centercol .leftcol1 .box .coachmessage .textarea
+{
+border:1px solid #b7d04c;
+background-color:#ecf7c5;
+width:329px;
+
+}
+
+/*---------css End for Messages from Coach -------*/
+
+/*---------css start for  welcome section of team member homepage -------*/
+
+.centercol .leftcol1 .welcomekyle
+{
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol
+{
+width:362px;
+float:left;
+color:white;
+font-size:20px;
+margin-right:10px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol .heading	
+{
+background:url(/images/welcomestyle-bg.gif) left top no-repeat;
+width:362px; 
+height:33px;
+padding:13px 0px 0px 18px;
+line-height:20px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol .welcomebg 
+{
+background-color:#E7E7E7;
+height:117px;
+overflow:auto;
+padding:9px 0 0 18px;
+width:344px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol  .bottombg
+{
+background:url(/images/welcome-bottombg.gif) left top no-repeat;
+width:362px; 
+height:14px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol
+{
+width:362px;
+float:left;
+clear:right;
+}
+
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol .heading	
+{
+background:url(/images/h-coachannouncement.gif) left top no-repeat;
+width:376px; 
+height:30px;
+padding:13px 0px 0px 18px;
+border-bottom:1px solid white;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol .welcomebg 
+{
+background-color:#e7e7e7;
+width:358px; 
+padding:9px 0px 0px 18px;
+height:119px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol .img
+{
+background-color:#e7e7e7;
+width:84px; 
+padding:12px 17px 0px 0px;
+float:left;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol .content
+{
+background-color:#e7e7e7;
+width:243px; 
+padding:12px 10px 0px 0px;
+float:left;
+clear:right;
+}
+
+
+.centercol .leftcol1 .welcomekyle .welcomerightcol  .bottombg
+{
+background:url(/images/welcome-bottombg1.gif) left top no-repeat;
+width:376px; 
+height:7px;
+}
+
+/*---------css End for  welcome section of team member homepage -------*/
+
+
+/*---------css start for  my team section and personal stuff ---------*/
+.myteam .leftcol1
+{
+width:365px;
+float:left;
+margin-right:15px;
+}
+
+.myteam .topbg
+{
+background:url(/images/myteam-topbg.gif) left top no-repeat;
+height:17px;
+}
+
+.myteam .bg
+{
+background:url(/images/myteambg.gif) left top repeat-x;
+padding:0 0 0 18px; 
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+min-height:250px;
+}
+
+.myteam .bg .row1
+{
+width:px;
+padding:3px 0 5px 0px;
+}
+
+.myteam .bg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.myteam .bg .row1 .col1 .img 
+{
+/*background: url(/images/video-image.jpg) left top no-repeat;*/
+width:107px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #999999;
+font-weight:bold;
+font-size:10px;
+}
+
+.myteam .bg .row1 .col1 .img .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+/*height:18px;	
+width:112px;*/ /*Commented by amit*/ 
+height:23px;	
+width:109px;
+}
+
+
+/*-------------css start for latest images ----------------------------*/
+
+.myteam .bg .row1  .latestimages .col1
+{
+width:94px;
+margin-right:20px;
+display:block;
+float:left;
+}
+
+.myteam .bg .row1  .latestimages .collast
+{
+width:94px;
+display:block;
+float:left;
+}
+
+.myteam .bg .row1  .latestimages  .img 
+{
+background: url(/images/image.jpg) left top no-repeat;
+width:74px;
+color:white;
+padding:52px 0px 0px 0px;
+border:1px solid #e7e7e7;
+font-weight:bold;
+font-size:10px;
+height:18px;
+}
+
+/*-------------css End for latest images ----------------------------*/
+
+.myteam .bottombg
+{
+background:url(/images/myteam-bottombg.gif) left top no-repeat;
+height:9px;
+}
+
+.myteam .rightcol1
+{
+width:365px;
+float:right;
+}
+
+
+
+/*---------css End for  my team section and personal stuff ---------*/
+
+
+/*---------css start for browse video  without center col-------*/
+.browsevideo
+{
+width:748px;
+}
+
+.browsevideo .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.browsevideo .boxbg
+{
+background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:10px 0px 0px 24px;
+height:230px;
+overflow:auto;
+}
+
+.browsevideo .boxbg .row1
+{
+width:705px;
+padding:10px 0 5px 0px;
+}
+
+.browsevideo .boxbg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.browsevideo .boxbg .row1 .col1 .img 
+{
+background: url(/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #999999;
+font-weight:bold;
+font-size:10px;
+cursor:pointer;
+}
+
+.browsevideo .boxbg .row1 .col1 .img .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:110px;
+}
+
+
+.browsevideo .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+.browsevideo .boxbg .row1 .col1 .play
+{
+/*background: url(/images/video-image.jpg) left top no-repeat;*/ /* Commented by AMIT*/
+width:110px;
+color:white;
+padding:20px 0px 16px 0px;
+height:37px;
+border:2px solid #999999;
+}
+
+.browsevideo .boxbg .row1 .col1 .play .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+margin-top:13px;
+}
+
+.browsevideo .boxbg .row1 .col1 .play .add  .floatrightbg {
+	float:right;
+	background-color:#000000;
+	padding:0px 2px;
+}
+
+
+/*---------css start for browse video  without center col-------*/
+
+/*---------css End for all team member ---------*/
+.welcomeheading{
+	float:left;
+	width:731px;
+	height:59px;
+	padding:8px 0 0 19px;
+	background: url(/images/team-memberbg.gif) left top no-repeat;
+	
+}
+
+.welcomeheading_update{
+	float:left;
+	width:731px;
+	height:59px;
+	padding:8px 0 0 19px;
+	background: url(/themes/shapestuff/images/myteam-memberbg.gif) left top no-repeat;
+	
+}
+
+.allteammember .welcomeheadingmyteam{
+	float:left;
+	width:731px;
+	height:59px;
+	padding:8px 0 0 19px;
+	background: url(/images/myteam-memberbg.gif) left top no-repeat;
+	
+}
+
+
+.allteammember .showing{
+	float:left;
+	width:595px;
+	padding-left:19px;
+
+}
+
+.allteammember .showing1{
+	float:left;
+	width:490px;
+	padding-left:19px;
+
+}
+
+
+.allteammember .sort{
+	float:left;
+	width:45px;
+	padding-top:2px;
+}
+
+.allteammember .memberbox{
+width:369px;
+float:left;
+margin-right:10px;
+}
+
+.allteammember  .memberboxtop{
+background: transparent url(/images/teammember-boxtop.gif) left top no-repeat;
+width:369px;
+height:10px;
+}
+
+.allteammember  .memberboxbg{
+background-color:#f1f1f1;
+border-left:1px solid #e7e7e7;
+border-right:1px solid #e7e7e7;
+padding:0px 4px 10px 15px;
+}
+
+.allteammember  .memberboxbg .memberimg{
+width:84px;
+margin-right:7px;
+float:left;
+}
+
+.allteammember  .memberboxbg .membercontent{
+width:256px;
+float:right;
+}
+
+.allteammember  .memberboxbg .membercontent .textfield
+{
+width:204px;
+border:1px solid #e7e7e7;
+background-color:white;
+height:16px;
+padding:2px 0px 0px 2px;
+font-size:11px;
+color:#666666;
+}
+
+
+.allteammember .memberboxbottom{
+background:transparent url(/images/teammember-boxbottom.gif) left top no-repeat;
+width:369px;
+height:10px;
+}
+
+.allteammember .memberbox1{
+width:369px;
+float:left;
+}
+/*---------css start for showing all team members (create new team) ---------*/
+
+.allteammemberwelcomeheading{
+	float:left;
+	width:748px;
+	height:46px;
+	padding:8px 0 0 19px;
+	background: url(/images/myteam-memberbg.gif) left top no-repeat;
+	
+}
+
+.createnewteam 
+{
+padding:0px 0 0 20px; 
+}
+
+.createnewteam .textheading
+{
+width:18%;
+float:left;
+font-size:15px;
+padding:4px 0 0 0; 
+}
+
+.createnewteam .formfield
+{
+width:80%;
+float:left;
+clear:right;
+}
+
+.createnewteam .textfield
+{
+border:1px solid #cccccc;
+background-color:white;
+height:21px;
+width:413px;
+
+}
+
+
+.showingallteammember{
+height:480px;
+overflow:auto;
+width:740px;
+border-left:1px solid #cccccc;
+border-right:1px solid #cccccc;
+}
+
+
+.showingallteammember .memberbox{
+width:320px;
+float:left;
+margin-right:5px;
+}
+
+.showingallteammember .checkboxclick{
+width:10px;
+float:left;
+margin-right:15px;
+margin-left:7px;
+}
+
+.showingallteammember  .memberboxtop{
+background: transparent url(/images/allteammember-boxtop.gif) left top no-repeat;
+width:320px;
+height:10px;
+}
+
+.showingallteammember  .memberboxbg{
+background-color:#f1f1f1;
+border-left:1px solid #e7e7e7;
+border-right:1px solid #e7e7e7;
+padding:0px 4px 10px 15px;
+}
+
+.showingallteammember  .memberboxbg .memberimg{
+width:84px;
+margin-right:7px;
+float:left;
+}
+
+.showingallteammember  .memberboxbg .membercontent{
+width:207px;
+float:right;
+}
+
+.showingallteammember .memberboxbottom{
+background:transparent url(/images/allteammember-boxbottom.gif) left top no-repeat;
+width:320px;
+height:10px;
+}
+
+.showingallteammember .memberbox1{
+width:320px;
+float:left;
+}
+
+/*---------css End for all team members (create new team)  ---------*/
+
+
+/*---------css start for my teamdetails ---------*/
+.teamdetails  .teamboxtop{
+background: transparent url(/images/teammember-detail-boxtop.gif) left top no-repeat;
+width:747px;
+height:9px;
+}
+
+.teamdetails   .teamboxbg{
+background-color:#f1f1f1;
+padding:0px 4px 10px 14px;
+margin-right:2px;
+}
+
+.teamdetails  .teamboxbg .teamimg{
+width:84px;
+margin-right:15px;
+float:left;
+}
+
+.teamdetails  .teamboxbg .teamcontent{
+float:left;
+padding:2px 0px 0px 0px;
+}
+
+
+.teamdetails   .teamboxbottom{
+background: transparent url(/images/teammember-detail-boxbottom.gif) left top no-repeat;
+width:747px;
+height:7px;
+}
+
+/*---------css start for my teamdetails ---------*/
+
+/*---------css start for my mip ---------*/
+.mymip
+{
+padding:15px;
+}
+
+.mymip .image
+{
+width:14%;
+float:left;
+background:url(/images/mymip-img.gif) left top no-repeat;
+min-height:107px;
+padding:23px 0px 0px 16px;
+}
+
+.mymip .content
+{
+float:left;
+width:82%;
+clear:right;
+padding:7px 0 0  0;  
+}
+
+.mymip .content1
+{
+float:left;
+width:40%;
+padding:7px 0 0  0;  
+}
+
+.mymip .graph
+{
+float:right;
+width:33%;
+padding:5px 0 0  10px;  
+background:url(/images/graphbg.gif) left top no-repeat;
+height:160px;
+}
+
+
+
+.mymip .graph .navyblue  {
+	color:#3366ff;
+	font-weight:bold;
+	font-size:11px;
+	line-height:12px;
+	text-align:left;
+}
+
+
+.mymip .graph .navyblue a {
+	color:#3366ff;
+	font-weight:bold;
+}
+
+.mymip .graph .navyblue a:hover {
+	text-decoration:underline;
+}
+
+
+
+.mymip .graphdetail
+{
+width:100%;
+padding:5px 0 0  0px;  
+background:url(/images/) left top no-repeat;
+}
+
+.mymip .graphdetailtop
+{
+background:url(/images/graphbg-top.gif) left top no-repeat;
+height:10px;
+}
+
+
+.mymip .graphdetailbg
+{
+padding:5px 0 0  10px;  
+background:url(/images/graphbg1.gif) left top repeat-y;
+}
+
+.mymip .graphdetailbottom
+{
+background:url(/images/graphbg-bottom.gif) left top no-repeat;
+height:10px;
+}
+
+
+.mymip .graphdetail .navyblue  {
+	color:#3366ff;
+	font-weight:bold;
+	font-size:11px;
+	line-height:12px;
+	text-align:left;
+}
+
+
+.mymip .graphdetail .navyblue a {
+	color:#3366ff;
+	font-weight:bold;
+}
+
+.mymip .graphdetail .navyblue a:hover {
+	text-decoration:underline;
+}
+
+
+
+/*---------css End for my teamdetails ---------*/
+
+
+/*---------css End for my stuff-------*/
+
+.mystuff
+{
+width:748px;
+}
+
+.mystuffheading{
+	float:left;
+	width:748px;
+	height:59px;
+	padding:8px 0 0 19px;
+	background: url(/images/mystuffbg.gif) left top no-repeat;
+	
+}
+
+.mystuffheading1{
+	float:left;
+	width:748px;
+	height:59px;
+	padding:8px 0 0 19px;
+	background: url(/images/stuff-contributedbg.gif) left top no-repeat;
+}
+
+.mystuff .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.mystuff .boxbg
+{
+background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:10px 0px 0px 22px;
+}
+
+.mystuff .boxbg .row1
+{
+width:705px;
+padding:4px 0 0px 0px;
+}
+
+.mystuff .boxbg .row1 .col1
+{
+width:175px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.mystuff .boxbg .row1 .col1 .play
+{
+/*background: url(/images/video-image.jpg) left top no-repeat;*/
+width:110px;
+color:white;
+padding:24px 0px 25px 0px;
+height:24px;
+border:2px solid #999999;
+}
+
+
+.myteam .row1 .col1 .play
+{
+/*background: url(/themes/shapestuff/images/video-image.jpg) left top no-repeat;*/
+width:108px;
+color:white;
+padding:24px 0px 25px 0px;
+height:24px;
+border:2px solid #999999;
+}
+
+
+.mystuff .boxbg .row1 .col_border
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+.centercol .leftcol1 .mystuff .boxbg .row1 .col1 .play  .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:110px;
+margin-top:9px;
+}
+
+
+.mystuff .boxbg .row1 .col1 .play .add  .floatrightbg {
+	float:right;
+	background-color:#000000;
+	padding:1px 2px;
+}
+
+
+.mystuff .boxbg .row1 .col_border .play 
+{
+background: url(/themes/shapestuff/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #E6FF5A;
+font-weight:bold;
+font-size:10px;
+}
+
+.mystuff .boxbg .row1 .col_border  .add 
+{
+background:url(/themes/shapestuff/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+}
+
+.mystuff .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+
+/*---------css End for my stuff-------*/
+
+/*---------css start for invite team member-------*/
+.enternewname .textheading
+{
+width:30%;
+float:left;
+font-size:14px;
+font-weight:bold;
+padding:3px 0 0 0;
+}
+
+.enternewname .textbox
+{
+width:30%;
+float:left;
+clear:right;
+}
+
+.enternewname .textbox .textbox1
+{
+width:334px;
+}
+
+
+/*---------css End for invite team member -------*/
+
+/*---------css start  for add edit photo -------*/
+
+.allteammember .croppingimage{
+width:747px;
+float:left;
+margin-right:10px;
+}
+
+.allteammember  .croppingimagetop{
+background: transparent url(/images/croppingimage-top.gif) left top no-repeat;
+width:747px;
+height:6px;
+}
+
+.allteammember  .croppingimagebg{
+background-color:#f1f1f1;
+border-left:1px solid #e7e7e7;
+border-right:1px solid #e7e7e7;
+padding:0px 4px 10px 15px;
+}
+
+.allteammember  .croppingimagebg .croppingimageimg{
+width:84px;
+margin-right:7px;
+float:left;
+}
+
+.allteammember  .croppingimagebg .croppingimagecontent{
+width:626px;
+float:right;
+padding:6px 0px 0px 0px;
+}
+
+
+.allteammember .croppingimagebottom{
+background:transparent url(/images/croppingimage-bottom.gif) left top no-repeat;
+width:747px;
+height:6px;
+}
+
+
+/*---------css start for team stuff -------*/
+
+.centercol .leftcol1 .teamstuff
+{
+width:748px;
+}
+
+.centercol .leftcol1 .teamstuff .boxtop
+{
+background:url(/images/browsevideo-topimg.gif) left top no-repeat;
+height:9px;
+}
+
+.centercol .leftcol1 .teamstuff .boxbg
+{
+background:#efefef url(/images/browsevideo-bg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding:10px 0px 0px 22px;
+height:240px;
+overflow:auto;
+}
+
+.centercol .leftcol1 .teamstuff .boxbg .row1
+{
+width:705px;
+padding:4px 0 0px 0px;
+}
+
+.centercol .leftcol1 .teamstuff .boxbg .row1 .col1
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+
+.centercol .leftcol1 .teamstuff .boxbg .row1 .col1 .img 
+{
+background: url(/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #999999;
+font-weight:bold;
+font-size:10px;
+}
+.centercol .leftcol1 .teamstuff .boxbg .row1 .col_border
+{
+width:130px;
+margin-right:40px;
+display:block;
+float:left;
+}
+.centercol .leftcol1 .teamstuff .boxbg .row1 .col1 .img .add 
+{
+background:url(/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+}
+.teamstuff .boxbg .row1 .col_border .img 
+{
+background: url(/themes/shapestuff/images/video-image.jpg) left top no-repeat;
+width:110px;
+color:white;
+padding:50px 0px 0px 0px;
+border:2px solid #E6FF5A;
+font-weight:bold;
+font-size:10px;
+}
+
+
+
+.teamstuff .boxbg .row1 .col_border .img .add 
+{
+background:url(/themes/shapestuff/images/video-bg.png) left top no-repeat;
+height:18px;	
+width:112px;
+}
+
+.centercol .leftcol1 .teamstuff .boxbottom
+{
+background: white url(/images/browsevideo-bottomimg.gif) left top no-repeat;
+height:5px;
+}
+
+
+/*---------css End for team stuff -------*/
+
+/*---------css start for profile page -------*/
+
+.centercol .leftcol1 .profile
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding-top:25px;
+}
+.centercol .leftcol1  .profile
+{
+padding:0px 18px 0 18px;
+}
+
+.centercol .leftcol1  .profile .textheading1
+{
+width:12%;
+float:left;
+font-weight:bold;
+padding:2px 0 0 10px;
+text-align:left;
+}
+
+.centercol .leftcol1  .profile  .formfield1
+{
+width:73%;
+float:left;
+padding:0px 0 0 2%;
+clear:right;
+}
+
+.centercol .leftcol1  .profile  .formfield2
+{
+width:70%;
+float:left;
+padding:3px 0 0 2%;
+clear:right;
+}
+
+
+
+
+/*----------css start for mip Delivery report ---------*/
+
+.centercol .leftcol1 .mipdelivery {
+	width:749px;
+}
+
+.centercol .leftcol1 .mipdelivery .boxtop{
+	background:url(/images/box-topimg.gif) left top no-repeat;
+	height:17px;
+}
+
+.centercol .leftcol1 .mipdelivery .boxbg
+{
+background: url(/images/boxbg.gif) left top repeat-x;
+border-left:1px solid #e2e2e2;
+border-right:1px solid #e2e2e2;
+padding-left:15px;
+}
+
+
+.centercol .leftcol1 .mipdelivery .boxbottom {
+	background: white url(/images/box-bottomimg.gif) left top no-repeat;
+	height:9px;
+}
+
+/*---------css End for mip Delivery report -------*/
+
+/*---------css start  for upadte and request -------*/
+.update-request
+{
+padding:0 0 0 17px;
+}
+
+.update-request .image
+{
+width:9%;
+float:left;
+}
+
+.update-request .content
+{
+width:91%;
+float:left;
+clear:right;
+}
+
+/*---------css End for upadte and request -------*/
+
+/*---------css start mailbox -------*/
+.mailbox
+{
+}
+
+.mailbox .fromheading
+{
+float:left;
+width:25%;
+padding-right:5px;
+}
+
+.mailbox .subjectheading
+{
+float:left;
+width:45%;
+padding:5px 0 0 0; 
+}
+
+.mailbox .dateheading
+{
+float:left;
+width:13%;
+}
+
+.mailbox .actionsheading
+{
+float:right;
+width:9%;
+text-align:center;
+}
+
+
+
+
+
+/*---------css End pending registration  -------*/
+
+
+
+.centercol .leftcol1 .welcome1 .welcomeheading1{
+	float:left;
+	width:599px;
+	height:47px;
+	margin:6px 0px 0px 6px;
+	padding:15px 0 0 19px;
+	background: url(/images/welcome-headingbg2.gif) left top no-repeat;
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+	line-height:21px;
+	
+}
+.float-left{
+	float:left;
+}
+.float-right{
+	float:right;
+}
+.invite_block{
+	border:1px solid #ffffff;
+	padding:0px 10px 0px 9px;
+}
+
+.invitecheckbox
+{
+width:22px;
+float:left;
+padding-top:4px;
+}
+
+.team_info_block{
+	position:relative;
+	float:left;
+	width:709px;
+	background-color:#e7e7e7;
+	padding:6px 10px;
+}
+.team_info_block a{
+	color:#5f5fde;
+	font-size:11px;
+}
+.team_info_block a:hover{
+	color:#5f5fde;
+}
+.form_label{
+	float:left;
+	width:228px;
+	font-size:11px;
+	color:#707070;
+}
+.info_block_field{
+	border:1px solid #cccccc;
+	height:18px;
+	width:200px;
+	padding:2px 0px;
+}
+.border_bottom{
+	border-bottom:1px solid #adadad;
+}
+
+/*---------css start for profile page -------*/
+
+.message_box{
+	float:left;
+	width:367px;
+}
+
+.message_box .boxtop{
+	background:url(/images/msg-box-topimg.gif) left top no-repeat;
+	height:6px;
+}
+
+.message_box .boxbg{
+	background: url(/images/boxbg.gif) left top repeat-x;
+	border-left:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	padding:0px 0px 0px 15px;
+}
+.message_box .boxbg .header{
+	float:left;
+	margin-top:7px;
+	font-size:16px;
+}
+.message_box .boxbottom{
+	background: white url(/images/msg-box-bottomimg.gif) left top no-repeat;
+	height:6px;
+}
+.msgbox_margin_left{
+	margin-left:13px;
+}
+
+.alert{
+	color:#ff0000;
+	font-size:11px;
+	font-weight:bold;
+}
+.msges{
+	position:relative;
+	height:135px;
+	overflow:auto;
+}
+.msges_row{
+	margin-top:15px;
+}
+
+.boxheader{
+	font-size:16px;
+}
+.mipbox .mipboxbottom{
+	background: white url(/images/videobox-bottom.gif) left top no-repeat;
+	height:11px;
+}
+
+
+
+.mip-frames{
+	border:solid 1px #CCCCCC;
+	height:80px;
+	width:89px;
+	margin: 0px 0px 0px 0px;
+	background-color:#000000;
+}
+.margin-left{
+	margin-left:4px;
+}
+.blue_link{
+	color:#3366ff;
+}
+.blue_link:hover{
+	color:#3366ff;
+}
+.small{
+	font-size:11px;
+}
+.video_detail{
+	float:left;
+	width:129px;
+	margin-left:1px;
+	margin-right:1px;
+	text-align: left;
+}
+.new_box .boxbg{
+	background: url(/images/boxbg.gif) left top repeat-x;
+	border-left:1px solid #e2e2e2;
+	border-right:1px solid #e2e2e2;
+	padding:0px 5px 3px 19px;
+	height:260px;
+}
+
+
+
+/*--------css for login nav */
+#sub_menulogin {
+	float:;
+	position:relative;
+	width:566px;
+	height:25px;
+	border-bottom:1px solid #950029;
+	margin-left:200px;
+}
+
+#sub_menulogin .subnav{
+	margin:0px 0px 0px 9px;
+}
+.subnav ul {
+	list-style:none;
+	float:left;
+	margin:0;
+	padding:0;
+}
+.subnav li {
+	display:inline;
+	float:left;
+	margin:0 0 0 2px;
+	padding:0;
+}
+.subnav a {
+	background:url(/images/bleft_115.gif) no-repeat left top;
+	text-decoration:none;
+	border:0;
+	display:block;
+	float:left;
+	margin:0;
+	padding:0;
+}
+.subnav a span {
+	display:block;
+	background:url(/images/bright_115.gif) no-repeat right top;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+	font-weight:bold;
+	line-height:26px;
+	margin-left:14px;
+	padding:0px 18px 0px 4px;
+}
+.subnav a:hover,.subnav li.item_active a {
+	background-position:left bottom;
+}
+
+.subnav a:hover span,.subnav li.item_active a span {
+	background-position:right bottom;
+	color:#950029;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/*--------css End for login nav */

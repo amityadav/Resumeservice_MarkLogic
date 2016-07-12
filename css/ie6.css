@@ -1,0 +1,444 @@
+.centercol .leftcol1 .profile {
+padding:0 10px 0;
+}
+
+
+.clearer
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height1
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height2
+{
+overflow:hidden;
+font-size:0;
+}
+
+
+.height3
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height4
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height5
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height7
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height10
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height11
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height15
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height20
+{
+overflow:hidden;
+font-size:0;
+}
+
+.centercol .leftcol {
+	padding:0px 0 0px 0;
+}
+
+.centercol .leftcol1 .box
+{
+height:293px;
+}
+
+.centercol .rightcol1 {
+	padding:0px 0 0px 0;
+}
+
+
+.button a.aero{ /*aero button CSS*/
+margin-right: 11px; /*spacing between buttons*/
+}
+
+.centercol .leftcol1 {
+	width:740px;
+	float:left;
+	margin-right:0px;
+}
+
+#tab {
+float:left;
+	}
+	
+.allteammember .memberbox{
+margin-right:2px;
+}
+
+.allteammember  .memberboxtop{
+overflow:hidden;
+}
+
+
+/*------------ css start for first time popup -------------*/
+
+.new_popup_top{
+overflow:hidden;
+}
+
+.gray_boxtop{
+	overflow:hidden;
+}
+
+.gray_boxbottom{
+	background:transparent url(/images/gray_boxbottom.gif) top left repeat-x;
+}
+
+.gray_boxbottom .gray_boxbottomL{
+	float:left;
+	background:transparent url(/images/gray_boxbottomL.gif) no-repeat left top;
+	width:6px;
+	height:6px;
+}
+.gray_boxbottom .gray_boxbottomR{
+	float:right;
+	background:transparent url(/images/gray_boxbottomR.gif) no-repeat right top;
+	width:6px;
+	height:6px;
+}
+
+
+.gray_boxbg{
+	height:250px;
+	}
+	
+.new_popup_bottombg{
+	background: url(/images/new_popup_bottom.gif) left top no-repeat ;
+}
+
+
+/*------------ css End for first time popup -------------*/
+
+/*---------css start  for add edit photo ----------------*/
+
+.allteammember  .croppingimagetop{
+	overflow:hidden;
+}
+
+
+/*---------css End for add edit photo ----------------*/
+
+.button a.aero{ /*aero button CSS*/
+margin-right: 1px; /*spacing between buttons*/
+}
+
+/*------------------- css End for btn ----------------------------------*/
+
+/* CSS for coach home page Added by Rohit*/
+
+.msgbox_margin_left{
+	margin-left:5px;
+}
+
+.message_box .boxtop{
+	background:url(/images/msg-box-topimg.gif) left top no-repeat;
+	height:6px;
+	overflow:hidden;
+}
+
+#frame .image
+{
+background:url(/images/mymip-img.gif) left top no-repeat;
+}
+
+.centercol .leftcol1 .browsevideo .boxtop
+{
+	overflow:hidden;
+}
+
+.new_box .boxbg{
+	padding:0px 4px 3px 19px;
+}
+
+/* CSS End for coach home page Added by Rohit*/
+
+/*--------- css start for browse video ------------- */
+
+.browsevideo .boxbg .row1 .col1 .play
+{
+overflow:hidden;
+}
+
+/*--------- css End for browse video ------------- */
+
+/*--------- css start for browse video ------------- */
+
+.browseaudio .boxtop
+{
+	overflow:hidden;
+}
+
+.browseaudio .boxbg .row1 .col1 .play
+{
+overflow:hidden;
+}
+
+
+/*--------- css End for browse video ------------- */
+
+
+/*---------css start for my mip -------------------*/
+.mymip
+{
+padding:7px;
+}
+
+/*---------css End for my mip ------------------------*/
+
+
+/*---------css start for all team members -------------*/
+
+.allteammember .showing{
+	float:left;
+	width:591px;
+	padding-left:19px;
+
+}
+
+
+
+/*---------css End for all team members -------------*/
+
+/*---------css Start for my teamdetails ---------*/
+
+.teamdetails  .teamboxtop{
+ overflow:hidden;
+}
+
+.teamdetails   .teamboxbg{
+	width:729px;
+}
+
+.centercol .rightcol1 .box1 .boxtop
+{
+ overflow:hidden;
+}
+
+/*---------css End for my teamdetails ---------*/
+
+/*---------css start for my teamdetails ---------*/
+
+.centercol .rightcol1 .box1 .boxbg .textheading1
+{
+padding:0px 5% 0 13px;
+}
+
+/*---------css start for my teamdetails ---------*/
+
+
+/*---------css start for preview popup -----------*/
+
+#preview .topheading
+{
+ overflow:hidden;
+}
+
+/*---------css End for preview popup -----------*/
+
+/*---------css End for browseimage -----------*/
+
+.browseimage .boxtop
+{
+	overflow:hidden;
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1
+{
+width:600px;
+}
+
+.centercol .leftcol1 .browseimage .boxbg
+{
+height:220px;
+}
+
+.centercol .leftcol1 .browseimage .boxbg .row1 .col1
+{
+width:125px;
+margin-right:25px;
+}
+
+/*---------css start for profile page -------*/
+
+.centercol .leftcol1 .profile
+{
+height:500px;
+}
+
+.centercol .rightcol1 .box .boxbg{
+height:160px;
+}
+
+.centercol .rightcol1 .box .boxbg .textheading1
+{
+padding:0px 0% 0 6%;
+}
+
+/*---------css end for profile page -------*/
+
+/*---------css start for invite member  page -------*/
+
+.form_label{
+	width:224px;
+}
+
+.team_info_block{
+	width:717px;
+}
+
+.margin-left23
+{
+margin-left:13px;
+}
+
+.invitecheckbox
+{
+padding-top:1px;
+}
+
+.mip_responses{
+	width:460px;
+}
+
+
+/*---------css start for quizdetail  page -------*/
+
+#quizdetail .topheading
+{
+	overflow:hidden;
+}
+
+/*---------css start for quizdetail  page ----------*/
+
+
+/*---------css Start for live recording  page -------*/
+
+.recording
+{
+width:60%;
+}
+
+/*---------css End for live recording  page -------*/
+
+
+/*---------css start for my stuff -------*/
+
+.mystuff .boxbg .row1 .col1 .play
+{
+overflow:hidden;
+}
+
+.mystuff .boxtop
+{
+overflow:hidden;
+}
+
+.mystuff .boxbg
+{
+padding:10px 0px 0px 13px;
+}
+
+/*---------css start for my stuff -------*/
+
+/*---------css start for team member registeration-------*/
+#sub_menu {
+	width:747px;
+}
+
+.subnav a:hover,.subnav li.item_active a {
+	text-decoration:none;
+}
+
+/*---------css End for team member registeration-------*/
+
+
+/*---------css start for team member landing page------*/
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol
+{
+margin-right:0px;
+width:350px;
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol .heading	
+{
+width:350px; 
+}
+
+.centercol .leftcol1 .welcomekyle .welcomeleftcol .welcomebg 
+{
+height:123px;
+}
+
+.myteam .leftcol1
+{
+width:365px;
+
+}
+
+.myteam .bg .row1 .col1
+{
+margin-right:20px;
+}
+
+/*---------css End for team member landing page------*/
+
+
+/*---------css start for team stuff -------*/
+
+.centercol .leftcol1 .teamstuff .boxtop
+{
+overflow:hidden;
+}
+
+.centercol .leftcol1 .teamstuff .boxbg
+{
+padding:10px 0px 0px 7px;
+}
+
+.mymip .graphdetailtop
+{
+overflow:hidden;
+}
+
+.subnav_container{
+	height:480px;	
+}
+

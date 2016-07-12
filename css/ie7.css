@@ -1,0 +1,125 @@
+.height1
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height2
+{
+overflow:hidden;
+font-size:0;
+}
+
+.height3
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height4
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height5
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height6
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height7
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height9
+{
+font-size:0px;
+overflow:hidden;
+}
+
+
+.height10
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height11
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height13
+{
+font-size:0px;
+overflow:hidden;
+}
+
+
+.height15
+{
+font-size:0px;
+overflow:hidden;
+}
+
+
+.height20
+{
+font-size:0px;
+overflow:hidden;
+}
+
+.height70{
+font-size:0px;
+overflow:hidden;
+height:80px;
+}
+
+
+/*---------------css End for user homepage----------------------- */
+
+.centercol .leftcol {
+	padding:0px 0 0px 0;
+}
+
+.centercol .rightcol1 {
+	padding:0px 0 0px 0;
+}
+
+.invitecheckbox
+{
+padding-top:0px;
+}
+
+.textfield6
+{
+width:519px;
+border:1px solid #cccccc;
+background-color:white;
+height:20px;
+}
+<<<<<<< .mine
+
+
+=======
+
+#frame1 .image
+{
+width:37%;
+float:left;
+background:url(/themes/shapestuff/images/mymip-img.png) left top no-repeat;
+height:109px;
+padding:23px 0px 0px 8px;
+}
+>>>>>>> .r2101
+
