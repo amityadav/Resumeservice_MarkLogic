@@ -105,4 +105,4 @@ css/ CSS files
 js/ JavaScript files
 images/ Images files
 
-Questions:  contact amit.y@globallogic.com
+Questions:  contact amit.yadav19@gmail.com
